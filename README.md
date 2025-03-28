@@ -43,8 +43,8 @@ cd ~/dotfiles
 ### 2. Run setup script
 
 ```bash
-chmod +x rice-my-linux-terminal.sh
-./rice-my-linux-terminal.sh
+chmod +x rice-my-terminal.sh
+./rice-my-terminal.sh
 ```
 
 This will:
