@@ -43,8 +43,8 @@ cd ~/dotfiles
 ### 2. Run setup script
 
 ```bash
-chmod +x pimp-my-terminal.sh
-./pimp-my-terminal.sh
+chmod +x rice-my-linux-terminal.sh
+./rice-my-linux-terminal.sh
 ```
 
 This will:
