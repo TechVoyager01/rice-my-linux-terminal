@@ -36,7 +36,7 @@ Welcome to my personal terminal setup guide — this includes:
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/yourusername/dotfiles.git ~/dotfiles
+git clone https://github.com/TechVoyager01/rice-my-linux-terminal.git ~/dotfiles
 cd ~/dotfiles
 ```
 
